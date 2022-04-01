@@ -2,7 +2,7 @@
 Écrit par Chensheng LUO.
 In this resporitory we have the code used for pseudo-periodicty case.   
 All code should be run under the condition of COMSOL with MATLAB.   
-The .mph is declined in git.   
+The .mph is deleted in git.   
 This folder is just a template, to be adpated with each model.   
 
 ## Guide pour réaliser le calcul de pseudo périodicité pour le projet safran
