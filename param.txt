@@ -1,0 +1,7 @@
+cube 4[cm] "Longeur de côté de cube"
+Vc 46[m/s] "Vitesse de fluide chaude"
+Vf 20[m/s] "Vitesse de fluide froide"
+Tc 273.15+700[K] "Température de fluide chaude"
+Tf 273.15+100[K] "Température de fluide froide"
+Pc 1[bar] "Pression de sortie de fluide chaude"
+Pf 1[bar] "Pression de sortie de fluide froide"
