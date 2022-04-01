@@ -31,8 +31,7 @@ Guide pour lancer un calcul :
 1.	Ouvrir pseuperiode_begin.mph   
 a)	Dans Parameters, vérifie bien que c’est ces paramètres-là, sinon fait importer les paramètres à partir de fichier param.txt dans ce dossier   
 b)	Dans import 2, choisir la géométrie que tu veux importer comme dans l’image ci-dessous, puis cliquer sur build select pour importer la géométrie   
-c)	Dans Liquid phase 1, inflow liquid1, Outflow liquid 1, Liquid phase 2, inflow liquid 2, Outflow liquid 2, Solid phase, inflow solid, outflow solid, choisir les domaines/surfaces correspondantes   
-ATTENTION ! Mémoriser les indices de 3 surfaces de sorties !
+c)	Dans Liquid phase 1, inflow liquid1, Outflow liquid 1, Liquid phase 2, inflow liquid 2, Outflow liquid 2, Solid phase, inflow solid, outflow solid, choisir les domaines/surfaces correspondantes    
 d)	Dans Turbulent Flow et Heat Transfert, configurer les periodics conditions, en choisissant les faces correspondante, supprimer ou ajouter des nouveaux en cas de besoin.   
 e)	Finir par créer la mesh   
 2.	Ouvrir pseuperiode_suite.mph   
